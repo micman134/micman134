@@ -1,16 +1,48 @@
-## Hi there 👋
+# Michael Okoro — Full-Stack Web Developer Portfolio
 
-<!--
-**micman134/micman134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio — a showcase of web development projects, tech skills, and creative solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+
+I’m **Michael Okoro**, a passionate full-stack web developer with experience building fast, secure, and user-friendly applications.  
+I specialize in blending design with functionality to create impactful solutions that solve real-world problems.
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,python,html,css,mysql,mongodb,git,photoshop,coreldraw" alt="Tech Stack" />
+</div>
+
+- **Languages:** PHP, JavaScript, Python, HTML, CSS  
+- **Frameworks:** Laravel, Flask  
+- **CMS:** WordPress, Custom CMS  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, Photoshop, CorelDraw  
+- **APIs:** RESTful, JSON, AJAX  
+
+---
+
+## 📂 Projects
+
+| Project                 | Role               | Link                                    |
+|-------------------------|--------------------|-----------------------------------------|
+| Web Hosting Service     | Full-Stack Developer | [tavohost.ng](http://www.tavohost.ng)   |
+| Online Elearning Platform | Backend Developer   | [peakwareacademy.com](http://www.peakwareacademy.com) |
+| Cryptocurrency Website  | Full-Stack Developer | [solvibes.site](http://www.solvibes.site) |
+| CMS & UI Projects       | Web Developer       | [ecaudit.co.uk](http://www.ecaudit.co.uk), [peakwaretechschool.com](http://www.peakwaretechschool.com) |
+
+---
+
+## 📫 Contact Me
+
+Let’s collaborate and build something great!  
+
+- 📧 [michaelokoro1@gmail.com](mailto:michaelokoro1@gmail.com)  
+
+---
+
+© 2025 Michael Okoro. All rights reserved.

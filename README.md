@@ -1,9 +1,5 @@
 # Michael Okoro — Full-Stack Web Developer 
 
-Welcome to my portfolio — a showcase of web development projects, tech skills, and creative solutions.
-
----
-
 ## 👤 About Me
 
 I’m **Michael Okoro**, a passionate full-stack web developer with experience building fast, secure, and user-friendly applications.  

@@ -1,4 +1,4 @@
-# Michael Okoro — Full-Stack Web Developer Portfolio
+# Michael Okoro — Full-Stack Web Developer 
 
 Welcome to my portfolio — a showcase of web development projects, tech skills, and creative solutions.
 

@@ -14,7 +14,7 @@ I specialize in blending design with functionality to create impactful solutions
 </div>
 
 - **Languages:** PHP, JavaScript, Python, HTML, CSS  
-- **Frameworks:** Laravel, Flask  
+- **Frameworks:** Laravel, Flask , Node.js, React.js
 - **CMS:** WordPress, Custom CMS  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, Photoshop, CorelDraw  

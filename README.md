@@ -17,8 +17,8 @@ I specialize in blending design with functionality to create impactful solutions
 - **Frameworks:** Laravel, Flask , Node.js, express.js, nestjs, ionic
 - **CMS:** WordPress, Custom CMS  
 - **Databases:** MySQL, MongoDB  
-- **Tools:** Git, Photoshop, CorelDraw  
-- **APIs:** RESTful, JSON, AJAX  
+- **Tools:** Git, Photoshop, CorelDraw, canva, VSCode  
+- **APIs:** RESTful, JSON, AJAX, Open AI 
 
 ---
 

@@ -14,7 +14,7 @@ I specialize in blending design with functionality to create impactful solutions
 </div>
 
 - **Languages:** PHP, JavaScript, Python, HTML, CSS  
-- **Frameworks:** Laravel, Flask , Node.js, React.js
+- **Frameworks:** Laravel, Flask , Node.js, express.js, nestjs, ionic
 - **CMS:** WordPress, Custom CMS  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, Photoshop, CorelDraw  
@@ -41,4 +41,4 @@ Let’s collaborate and build something great!
 
 ---
 
-© 2025 Michael Okoro. All rights reserved.
+© 2026 Michael Okoro. All rights reserved.

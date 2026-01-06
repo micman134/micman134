@@ -29,7 +29,7 @@ I specialize in blending design with functionality to create impactful solutions
 | Web Hosting Service     | Full-Stack Developer | [tavohost.ng](http://www.tavohost.ng)   |
 | Online Elearning Platform | Backend Developer   | [peakwareacademy.com](http://www.peakwareacademy.com) |
 | Cryptocurrency Website  | Full-Stack Developer | [solvibes.site](http://www.solvibes.site) |
-| CMS & UI Projects       | Web Developer       | [ecaudit.co.uk](http://www.ecaudit.co.uk), [peakwaretechschool.com](http://www.peakwaretechschool.com) |
+| CMS & UI Projects       | Web Developer       | [ecaudit.co.uk](http://www.ecaudit.co.uk), [tavonetworks.tech](http://www.tavonetworks.tech) |
 
 ---
 
